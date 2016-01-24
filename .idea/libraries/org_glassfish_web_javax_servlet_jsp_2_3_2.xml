@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="org.glassfish.web:javax.servlet.jsp:2.3.2" type="repository">
+    <properties maven-id="org.glassfish.web:javax.servlet.jsp:2.3.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsp/javax.servlet.jsp-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsp/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsp/javax.el-3.0.1-b08.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsp/javax.servlet.jsp-api-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jsp/javax.servlet.jsp-2.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
